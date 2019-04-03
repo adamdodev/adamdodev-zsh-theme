@@ -1,12 +1,9 @@
-local ret_status="%(?:%F{green}%?%f :%F{red}%?%f )"
-local aws_p="%("
-
 ZSH_THEME_GIT_PROMPT_PREFIX="%F{magenta}↳ "
 ZSH_THEME_GIT_PROMPT_SUFFIX="%f"
 ZSH_THEME_GIT_PROMPT_DIRTY=""
 ZSH_THEME_GIT_PROMPT_CLEAN=""
 
-PROMPT='%B${ret_status}
+PROMPT='%B%(?:%F{green}%?%f :%F{red}%?%f )
 
 
 %F{cyan}%~%f $(git_prompt_info)
