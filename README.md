@@ -1,6 +1,6 @@
 # adamdodev-zsh-theme
 
-Theme and prompt for zsh.
+Theme and prompt for oh-my-zsh.
 
 ![Screenshot](https://raw.githubusercontent.com/adamdodev/adamdodev-zsh-theme/master/screenshot.png)
 
