@@ -8,8 +8,8 @@ Features:
 - Previous command status
 - Current working directory
 - Git branch
-- AWS Profile name (vai `$AWS_PROFILE_SWITCH` env var)
-- Azure Service Principal name (from `$AZ_SERVICE_PRINCIPAL` env var)
+- AWS Profile name (set `$AWS_PROFILE_SWITCH` env var)
+- Azure Service Principal name (set `$AZ_SERVICE_PRINCIPAL` env var)
 - A lorra lorra spacing
 
 ## Install
