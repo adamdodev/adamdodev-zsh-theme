@@ -10,6 +10,7 @@ Features:
 - Git branch
 - AWS Profile name (set `$AWS_PROFILE_SWITCH` env var)
 - Azure Subscription name (set `$AZ_SUBSCRIPTION_ALIAS` env var)
+- Kubernetes context
 - A lorra lorra spacing
 
 ## Install
