@@ -1,0 +1,4 @@
+aws_profile=true
+az_subscription=true
+k8s_context=true
+tf_workspace=true
